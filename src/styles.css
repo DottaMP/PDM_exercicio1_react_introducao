@@ -1,0 +1,14 @@
+.elemento3{
+    width:180px;
+    height:180px;
+    background-color: #f0e5fd;
+    bottom: 200px;
+    margin-left: 50px;
+    margin-right: 40px;
+    border-radius: 10px;
+    border: solid;
+    border-width: 1px;
+    border-color: #dec4fc;
+    text-align: center;
+    font-size: 14px;
+}

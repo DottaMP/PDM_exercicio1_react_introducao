@@ -1,4 +1,5 @@
-# PDM - Programação de Dispositivos Móveis
+# Programação para Dispositivos Móveis
+## 5º Semestre do curso de *Análise e Desenvolvimento de Sistemas*
 # Exercício 1 - React - Introdução
 
 Crie uma aplicação ReactJS com um único componente que exibe o conteúdo ilustrado pela Figura 1.1.
